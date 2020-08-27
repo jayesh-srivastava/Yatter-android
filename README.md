@@ -1,2 +1,2 @@
-# Yatter-App
+# Yatter
 sdfdddh
