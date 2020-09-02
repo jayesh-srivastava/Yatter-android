@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "724264396962",
+    "firebase_url": "https://yatter-2238c.firebaseio.com",
+    "project_id": "yatter-2238c",
+    "storage_bucket": "yatter-2238c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724264396962:android:a90db79bc4037e3175cffb",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724264396962-f7bdn7uo5c1r6r497cva1s03iubdread.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.udacity.friendlychat",
+            "certificate_hash": "e6ff38ae6987576ac13a44d6f35fbc984bbd1faa"
+          }
+        },
+        {
+          "client_id": "724264396962-ek18a3gujcr21jog0mpj38dkg213k42g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiln7QagvtgM1u_62MhqeNN-HtsIFXoI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724264396962-ek18a3gujcr21jog0mpj38dkg213k42g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
