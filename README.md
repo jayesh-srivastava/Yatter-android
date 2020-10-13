@@ -5,4 +5,9 @@ A simple chatting application developed with Firebase. Firebase Realtime Databas
 The minimum API Level of the app is 21 which means that only AVDs or Android Devices with API Level 21 or above or Android Version 5.0 or above will support the app.
 
 
+## How to install the app in your android device?
+* [app-debug.apk](https://github.com/jayesh-srivastava/Scorer-android/blob/master/apk%20file/app-debug.apk)\
+Click on the above link and click on 'view raw'. You might have to grant some initial permissions to install an app from an unknown source. Install and open.
+
+
 ### Developed by  [@jayesh-srivastava](https://github.com/jayesh-srivastava)
