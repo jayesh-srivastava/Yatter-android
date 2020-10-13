@@ -15,5 +15,5 @@ Click on the above link and click on 'view raw'. You might have to grant some in
 
 
 
-<img src="https://github.com/jayesh-srivastava/Yatter-android/blob/master/assests/device-2020-10-13-223917.png" width="32%">&ensp; <img src="assests/device-2020-06-21-015331.png" width="32%">&ensp; <img src="assests/device-2020-06-21-015420.png" width="32%">&ensp;
+<img src="https://github.com/jayesh-srivastava/Yatter-android/blob/master/assests/device-2020-10-13-223917.png" width="32%">&ensp; <img src="assests/device-2020-10-13-223941.png" width="32%">&ensp; <img src="assests/device-2020-10-13-224020.png" width="32%">&ensp;
 
