@@ -11,3 +11,9 @@ Click on the above link and click on 'view raw'. You might have to grant some in
 
 
 ### Developed by  [@jayesh-srivastava](https://github.com/jayesh-srivastava)
+
+
+
+
+<img src="/assests/device-2020-06-21-015235.png" width="32%">&ensp; <img src="assests/device-2020-06-21-015331.png" width="32%">&ensp; <img src="assests/device-2020-06-21-015420.png" width="32%">&ensp;
+
