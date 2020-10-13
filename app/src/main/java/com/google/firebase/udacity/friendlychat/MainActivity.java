@@ -38,8 +38,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-//import android.support.v7.app.AppCompatActivity;
-
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "MainActivity";
