@@ -1,7 +1,14 @@
-# Yatter
+# FriendlyChat
 
-A simple chatting application developed with Firebase. Firebase Realtime Database is used for storing messages, Firebase Storage is used for storing photo messages, Firebase Authentication is used for letting only the authenticated users use the app. This is my first application with Firebase so the personal messages feature is not implemented. So basically this is a group chat application. 
+This repository contains code for the FriendlyChat project in the [Firebase in a Weekend: Android by Google](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352) Udacity course.
 
+## Overview
 
-The minimum API Level of the app is 15 which means that only AVDs or Android Devices with API Level 15 or above or Android Version 4.0.3 or above will support the app.fkjfkmb
+FriendlyChat is an app that allows users to send and receive text and photos in realtime across platforms.
 
+## Setup
+
+Setup requires creating a Firebase project. See https://firebase.google.com/ for more information.
+
+## License
+See [LICENSE](LICENSE)

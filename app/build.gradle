@@ -43,4 +43,6 @@ dependencies {
     implementation 'com.google.firebase:firebase-storage:19.1.1'
     implementation 'com.google.firebase:firebase-auth:19.3.2'
     implementation 'com.firebaseui:firebase-ui-auth:6.3.0'
+    implementation 'com.google.firebase:firebase-messaging:20.2.4'
+    implementation 'com.google.firebase:firebase-config:19.2.0'
 }

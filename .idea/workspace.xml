@@ -50,7 +50,7 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Ronnie" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Razor" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -119,9 +119,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Ronnie" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-09-02T09:04:27.541Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Razor" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-13T17:07:18.037Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ScreenshotViewer.SavePath" value="$PROJECT_DIR$" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../AppData/Local/Android/Sdk" />
@@ -216,6 +217,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="286" y="144" key="#PSD/0.0.1536.824@0.0.1536.824" timestamp="1597942971342" />
+    <state x="361" y="71" key="#Updates" timestamp="1600761034985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Updates/0.0.1536.824@0.0.1536.824" timestamp="1600761034985" />
+    <state x="449" y="140" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600759683619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="140" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1600759683619" />
     <state x="449" y="72" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1598558776893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -228,30 +237,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="449" y="167" key="Downloadable.Font.Dialog.Size/0.0.1536.824@0.0.1536.824" timestamp="1597944430648" />
-    <state x="549" y="139" key="FileChooserDialogImpl" timestamp="1598182144720">
+    <state x="549" y="139" key="FileChooserDialogImpl" timestamp="1602609022315">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="139" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1598182144720" />
-    <state width="1491" height="28" key="GridCell.Tab.0.bottom" timestamp="1599037496143">
+    <state x="549" y="139" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602609022315" />
+    <state width="1491" height="392" key="GridCell.Tab.0.bottom" timestamp="1602608681944">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="28" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599037496143" />
-    <state width="1491" height="28" key="GridCell.Tab.0.center" timestamp="1599037496143">
+    <state width="1491" height="392" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602608681944" />
+    <state width="1491" height="392" key="GridCell.Tab.0.center" timestamp="1602608681944">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="28" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599037496143" />
-    <state width="1491" height="28" key="GridCell.Tab.0.left" timestamp="1599037496142">
+    <state width="1491" height="392" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602608681944" />
+    <state width="1491" height="392" key="GridCell.Tab.0.left" timestamp="1602608681944">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="28" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599037496142" />
-    <state width="1491" height="28" key="GridCell.Tab.0.right" timestamp="1599037496143">
+    <state width="1491" height="392" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602608681944" />
+    <state width="1491" height="392" key="GridCell.Tab.0.right" timestamp="1602608681944">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="28" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599037496143" />
+    <state width="1491" height="392" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602608681944" />
+    <state x="18" y="0" width="981" height="824" key="ScreenshotViewer.Dimensions" timestamp="1602609022757">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="18" y="0" width="981" height="824" key="ScreenshotViewer.Dimensions/0.0.1536.824@0.0.1536.824" timestamp="1602609022757" />
     <state x="93" y="93" width="1350" height="638" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1598037071007">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.824@0.0.1536.824" timestamp="1598037071007" />
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602608620095">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1602608620095" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1598291759667">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
